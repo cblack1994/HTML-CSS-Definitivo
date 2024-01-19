@@ -28,5 +28,6 @@ html
 #two
 {
     background-color: green;
-    position: absolute;
+    position: relative;
+    bottom: 15px;
 }
