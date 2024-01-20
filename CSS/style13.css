@@ -19,7 +19,7 @@ body
 {
     border: .3rem solid black;
     display: flex;
-    align-items: center;
+    align-items: flex-end;
     height: 50vh;
 }
 
