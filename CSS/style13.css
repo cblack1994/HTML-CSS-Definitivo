@@ -19,7 +19,7 @@ body
 {
     border: .3rem solid black;
     display: flex;
-    justify-content: center;
+    justify-content: flex-end;
 }
 
 .box
