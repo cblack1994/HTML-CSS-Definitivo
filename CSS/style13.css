@@ -19,7 +19,7 @@ body
 {
     border: .3rem solid black;
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: wrap-reverse;
 }
 
 .box
