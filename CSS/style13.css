@@ -19,24 +19,25 @@ body
 {
     border: .3rem solid black;
     display: flex;
-    align-items: baseline;
     height: 50vh;
 }
 
 .box
 {
     width: 10rem;
-    /*height: 10rem;*/
+    height: 10rem;/
 }
 
 .box1
 {
     background-color: blue;
+    order: 1;
 }
 
 .box2
 {
     background-color: blueviolet;
+    order: 3;
 }
 
 .box3
@@ -52,9 +53,11 @@ body
 .box5
 {
     background-color: coral;
+    order: 4;
 }
 
 .box6
 {
     background-color: slategray;
+    order: 2;
 }
