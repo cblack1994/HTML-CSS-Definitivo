@@ -19,14 +19,14 @@ body
 {
     border: .3rem solid black;
     display: flex;
-    align-items: flex-start;
+    align-items: stretch;
     height: 50vh;
 }
 
 .box
 {
     width: 10rem;
-    height: 10rem;
+    /*height: 10rem;*/
 }
 
 .box1
